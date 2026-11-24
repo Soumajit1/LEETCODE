@@ -47,4 +47,12 @@ here we include leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Soumajit1/Leetcode001/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/Soumajit1/Leetcode001/tree/main/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/Soumajit1/Leetcode001/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
