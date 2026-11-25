@@ -10,6 +10,7 @@ here we include leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Soumajit1/Leetcode001/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0242-valid-anagram](https://github.com/Soumajit1/Leetcode001/tree/main/0242-valid-anagram/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Soumajit1/Leetcode001/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -55,4 +56,12 @@ here we include leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Soumajit1/Leetcode001/tree/main/0190-reverse-bits/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Soumajit1/Leetcode001/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Soumajit1/Leetcode001/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
