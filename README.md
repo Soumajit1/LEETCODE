@@ -11,6 +11,7 @@ here we include leetcode solution
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Soumajit1/Leetcode001/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/Soumajit1/Leetcode001/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Soumajit1/Leetcode001/tree/main/0389-find-the-difference/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Soumajit1/Leetcode001/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -56,12 +57,15 @@ here we include leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Soumajit1/Leetcode001/tree/main/0190-reverse-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/Soumajit1/Leetcode001/tree/main/0389-find-the-difference/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Soumajit1/Leetcode001/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Soumajit1/Leetcode001/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Soumajit1/Leetcode001/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Soumajit1/Leetcode001/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
