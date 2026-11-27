@@ -53,10 +53,12 @@ here we include leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Soumajit1/Leetcode001/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Soumajit1/Leetcode001/tree/main/0191-number-of-1-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Soumajit1/Leetcode001/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Soumajit1/Leetcode001/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/Soumajit1/Leetcode001/tree/main/0389-find-the-difference/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
