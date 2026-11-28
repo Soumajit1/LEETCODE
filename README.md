@@ -32,6 +32,7 @@ here we include leetcode solution
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Soumajit1/Leetcode001/tree/main/0118-pascals-triangle/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/Soumajit1/Leetcode001/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -70,4 +71,8 @@ here we include leetcode solution
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Soumajit1/Leetcode001/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Soumajit1/Leetcode001/tree/main/0389-find-the-difference/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Soumajit1/Leetcode001/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
